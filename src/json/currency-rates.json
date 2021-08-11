@@ -1,0 +1,41 @@
+{
+  "EUR": {
+    "code": "EUR",
+    "name": "Euro",
+    "targets": {
+      "USD": 1.2897,
+      "CHF": 1.3135,
+      "GBP": 0.8631
+    }
+  },
+  "USD": {
+    "code": "USD",
+    "name": "US Dollar",
+    "targets": {
+      "JPY": 109.6200
+    }
+  },
+  "CHF": {
+    "code": "CHF",
+    "name": "Swiss Franc",
+    "targets": {
+      "USD": 0.9960
+    }
+  },
+  "GBP": {
+    "code": "GBP" ,
+    "name": "British Pound",
+    "targets": {
+      "CAD": 1.7574
+    }
+  },
+  "JPY": {
+    "code": "JPY",
+    "name": "Japanese Yen"
+
+  },
+  "CAD": {
+    "code": "CAD",
+    "name": "Canadian Dollar"
+  }
+}
