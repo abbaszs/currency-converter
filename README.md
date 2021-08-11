@@ -13,7 +13,7 @@ All the readable source code and other assets that make up the application are i
 
 
 Relevant files include: 
-`CurrencyConverter.vue` in *src/components*
+`CurrencyConverter.vue` in *src/components* and
 `currency-rates.json` in *src/json*
 
 
