@@ -2,11 +2,11 @@
 
 ## Instructions
 
-The web application has already been built (compiled) and is ready to run.
+The calculator has already been built (compiled) and is ready to run.
 
-Run the web application by opening the `index.html` file in the *dist* folder.
+Run by opening the `index.html` file in the *dist* folder.
 
-The web application was created using Vue.js, Bootstrap and Webpack.
+Created using Vue.js, Bootstrap and Webpack.
 
 All the readable source code and other assets that make up the application are inside the *src* folder.
 
